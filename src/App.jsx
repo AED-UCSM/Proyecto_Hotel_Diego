@@ -1,5 +1,9 @@
+import Experiences from '../components/Experiences';
+
 function App() {
-  return <h1>Proyecto Hotelll</h1>;
+  return (
+    <Experiences/>
+  );
 }
 
 export default App;
