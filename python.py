@@ -1,2 +1,0 @@
-print ("HOla")
-print("golllll")
